@@ -19,7 +19,7 @@ const ContactForm = () => {
 		e.preventDefault();
 
 		emailjs
-			.sendForm("whoisbl33h", "template1", e.target, "JjC_Nnt4rUsjIsRtz")
+			.sendForm("service_kli8s2n", "template_9aez2qp", e.target, "Vrq45MC3_UMSVzZRK")
 			.then(
 				(result) => {
 					document.getElementById("contact_form").reset();

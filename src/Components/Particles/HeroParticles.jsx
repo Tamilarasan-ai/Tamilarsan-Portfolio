@@ -7,7 +7,7 @@
    Last modification: 03/06/2023
 */
 
- import ParticlesComponent from "./ParticlesComponent";
+import ParticlesComponent from "./ParticlesComponent";
 import { heroOptions } from "./particlesOptions";
 
 const HeroParticles = () => {
