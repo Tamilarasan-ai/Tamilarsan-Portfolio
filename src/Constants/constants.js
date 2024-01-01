@@ -124,7 +124,7 @@ const projects = [
 			"An Chit fund Business portfolio to showcase their business and other functionality featured with an Dashboard",
 		image: memoryGame,
 		source_code_link: "https://github.com/RatheeshCoder/chit-fund",
-		demo_link: "https://chit-fund-286v-git-ratheeshwork-ratheesh2003.vercel.app/",
+		demo_link: "https://chit-fund-abua.vercel.app/",
 	},
 	{
 		name: "Scrapy Home",
